@@ -30,12 +30,5 @@ public class FruitDriver {
 
         fruits.forEach(System.out::println);
 
-
-
-
-
-
-
-
     }
 }

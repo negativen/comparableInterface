@@ -66,6 +66,5 @@ public class Fruit implements Comparable<Fruit>{
         sb.append('}');
         return sb.toString();
 
-
     }
 }
